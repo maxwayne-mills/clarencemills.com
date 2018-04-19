@@ -22,8 +22,7 @@ sections:
         - title: Scalar Decisions
           info: System Administrator / Technical Account Manager
           date: September 2011 - February 2016
-          description: Systems Administration of customers VMware virtual environment.
-           Daily configuration, monitoring and change management of customers physical and virtual server infrastructure. 
+          description: Systems Administration of customers VMware virtual environment. Daily configuration, monitoring and change management of customers physical and virtual server infrastructure. 
         - title: Symantec
           info: Senior Infrastructure Administrator
           date: March 2010 - September 2011
