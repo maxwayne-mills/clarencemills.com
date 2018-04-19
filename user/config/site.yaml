@@ -7,7 +7,7 @@ metadata:
 # Header customization
 header:
   title: Clarence Mills.
-  description: I'm a <span>consumer</span>, <span>advisor</span> and <span>evangelist</span> of open source software and technology based solutions. Scroll down to learn more <a class="smoothscroll" href="#about">about me</a>.
+  description: I'm a <span>consumer</span>, <span>Consultant</span> and <span>evangelist</span> of open source software and technology based solutions. Scroll down to learn more <a class="smoothscroll" href="#about">about me</a>.
 copyright:
     - line: &copy; Copyright 2014 CeeVee
     - line: Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a>
