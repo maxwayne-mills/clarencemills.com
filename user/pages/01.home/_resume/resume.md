@@ -14,7 +14,7 @@ sections:
         - title: AgileBits
           info: System Engineer
           date: August 2017 - Present
-          description:  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium.
+          description:  Configuration of AWS cloud environment using Terraform, cloud-init and ansible.
         - title: Scotiabank
           info: Global Technology Services(GTS), Enterprise cloud, Technical Specialist Automation
           date: June 2016 - August 2017
@@ -26,7 +26,7 @@ sections:
         - title: Symantec
           info: Senior Infrastructure Administrator
           date: March 2010 - September 2011
-          description: Manage Vmware hardware environment and configuring virtual infrastructure for Quality assurance department. Providing monitorig, maintenance, analysis and resolution of Quality Assurance infrastructure, which consisted con Netapp, cisco switch's, ASA and Hp servers.
+          description: Manage Vmware hardware environment and configuring virtual infrastructure for Quality assurance department. Providing monitoring, maintenance, analysis and resolution of Quality Assurance infrastructure, which consisted con Netapp, cisco switch's, ASA and Hp servers.
         - title: Messagelabs LTD - acquired by Symantec
           info: Senior Security Infrastructure Administrator
           date: September 2008 - March 2010
@@ -49,6 +49,8 @@ sections:
               level: 35
             - name: Packer
               level: 50
+            - name: Vagrant
+              level: 80
             - name: Bash
               level: 90
             - name: Python
