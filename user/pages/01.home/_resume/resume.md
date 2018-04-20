@@ -22,7 +22,7 @@ sections:
         - title: Scalar Decisions
           info: System Administrator / Technical Account Manager
           date: September 2011 - February 2016
-          description: Systems Administration of customers VMware virtual environment. Daily configuration, monitoring and change management of customers physical and virtual server infrastructure. 
+          description: Systems Administration of customers VMware virtual environment. Daily configuration, monitoring and change management of customers physical and VMware infrastructure. 
         - title: Symantec
           info: Senior Infrastructure Administrator
           date: March 2010 - September 2011
@@ -30,7 +30,7 @@ sections:
         - title: Messagelabs LTD - acquired by Symantec
           info: Senior Security Infrastructure Administrator
           date: September 2008 - March 2010
-          description: Technical specialist in advising and implementing secure encrypted communication for large enterprise customers. Troubleshooting problems related to online encryption. Implementing tools to automate implementation of customers PKI configuration allowing for securing communication between their partners. Providing third level resolution to support team on advising on customer encryption level problems in isolating and correcting problems. Created online documentation within corporate wiki for resolution and problem avoidance relating to encryption problems.
+          description: Technical specialist in advising and implementing secure encrypted communication for large enterprise customers. Troubleshooting customers PKI related problems. Implementing tools to automate implementation of customers PKI configuration allowing for securing communication between their partners. Providing third level analysis and resolution to support on customers PKI related problems. Created online documentation within corporate wiki for resolution and problem avoidance relating to encryption problems.
         - title: BorderWare Technologies - acquired by WatchGuard
           info: Network Administrator
           date: Jan 2000 - September 2008
