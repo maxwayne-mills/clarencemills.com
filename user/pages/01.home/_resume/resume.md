@@ -30,7 +30,7 @@ sections:
         - title: Messagelabs LTD - acquired by Symantec
           info: Senior Security Infrastructure Administrator
           date: September 2008 - March 2010
-          description: Technical specialist in advising and implementing secure encrypted communication for large enterprise customers. Troubleshooting customers PKI related problems. Implementing tools to automate implementation of customers PKI configuration allowing for securing communication between their partners. Providing third level analysis and resolution to support on customers PKI related problems. Created online documentation within corporate wiki for resolution and problem avoidance relating to encryption problems.
+          description: Technical specialist in advising and implementing PKI level encryption for allowing secure communication for large enterprise customers. Implementing tools to automate implementation of customers PKI configuration allowing for faster implementation. Providing third level analysis and resolution to first and second level support team on customers PKI related problems. Created online documentation within corporate wiki for resolution and problem avoidance relating to encryption problems.
         - title: BorderWare Technologies - acquired by WatchGuard
           info: Network Administrator
           date: Jan 2000 - September 2008
