@@ -31,7 +31,7 @@ sections:
           info: Senior Security Infrastructure Administrator
           date: September 2008 - March 2010
           description: Technical specialist in advising and implementing secure encrypted communication for large enterprise customers. Troubleshooting problems related to online encryption. Implementing tools to automate implementation of customers PKI configuration allowing for securing communication between their partners. Providing third level resolution to support team on advising on customer encryption level problems in isolating and correcting problems. Created online documentation within corporate wike on resolution and problem avoidance relating to encryption problems.
-        - title: BorderWare Technologies - acquired by Watchdog
+        - title: BorderWare Technologies - acquired by WatchGuard
           info: Network Administrator
           date: Jan 2000 - September 2008
           description: Web site administration, registration of domain names, design and implementation of corporate websites. Designed an internal infrastructure consisting of DNS/DHCP, open source mail server, OpenLDAP, Nagios monitoring system, Samba file server, Blackberry server and Active directory environment. 
